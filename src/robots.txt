@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pizzichino.it/sitemap.xml
